@@ -8,7 +8,7 @@ TikTok is a social media platform for creating, sharing and discovering short vi
 
 **Problem:** These reports identify content that needs to be reviewed by a limited number of moderators. The process generates a large number of user reports that are challenging to consider in a timely manner.
 
-**Proposed Solution:** To create a predictive machine learning model that can determine whether a reported video is a claim or an opinion video.
+**Proposed Solution:** To create a predictive machine learning model that classifies videos as either claims or opinions.
 
 These are the steps taken to create the model:
 1. Exploratory Data Analysis (EDA)
