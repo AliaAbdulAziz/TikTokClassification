@@ -11,7 +11,7 @@ TikTok is a social media platform for creating, sharing and discovering short vi
 **Proposed Solution:** To create a predictive machine learning model that classifies videos as either claims or opinions.
 
 These are the steps taken to create the model:
-1. Exploratory Data Analysis (EDA)
+1. <a href="https://github.com/AliaAbdulAziz/TikTokClassification/tree/main/EDA">Exploratory Data Analysis (EDA)</a>
 2. Hypothesis Testing
 3. Regression Modelling
 4. Classifying videos using machine learning
