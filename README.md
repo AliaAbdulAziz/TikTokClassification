@@ -13,5 +13,5 @@ TikTok is a social media platform for creating, sharing and discovering short vi
 These are the steps taken to create the model:
 1. <a href="https://github.com/AliaAbdulAziz/TikTokClassification/tree/main/EDA">Exploratory Data Analysis (EDA)</a>
 2. <a href="https://github.com/AliaAbdulAziz/TikTokClassification/tree/main/Hypothesis%20Testing">Hypothesis Testing</a>
-3. Regression Modelling
+3. <a href="https://github.com/AliaAbdulAziz/TikTokClassification/tree/main/Regression%20Model">Regression Modelling</a>
 4. Machine Learning Classification
